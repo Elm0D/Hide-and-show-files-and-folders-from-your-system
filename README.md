@@ -6,7 +6,8 @@ A simple program I did in vb.net with the following functions:
 [+] show and hide files<br>
 [+] protect your files with apssword<br>
 <br>
-An image :
+An image :<br>
+
 ![image](https://4.bp.blogspot.com/-S-sMTOwduSs/Vs2_4UlCewI/AAAAAAAAAhw/ZyO7KF4OIW4/s320/2016-02-24_162823.png)
 <br><br>
 <br>
